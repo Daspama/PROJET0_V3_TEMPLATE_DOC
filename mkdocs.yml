@@ -1,0 +1,14 @@
+site_name: PROJET0_V3_TEMPLATE
+site_url: https://example.com
+repo_url: https://github.com/ton-compte/PROJET0_V3_TEMPLATE
+nav:
+  - Accueil: index.md
+  - Installation: installation.md
+  - Utilisation: utilisation.md
+  - Configuration: configuration.md
+  - Dashboard: dashboard.md
+  - Stratégie: strategie.md
+  - Optimisation: optimisation.md
+  - Déploiement: deploiement.md
+theme:
+  name: material
